@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -17,13 +17,13 @@
         <div class="heading_logo">
             <img src="img/COACHTECHヘッダーロゴ.png" alt="COACHTECHロゴ">
         </div>
-        <div>
-            
+        <div class="search-content">
+            <search>キーワードを入力してください</search>
         </div>
     </div>
     
 
     @yield('content')
-    
+
 </body>
 </html>
