@@ -15,10 +15,7 @@
 
     <div class="heading">
         <div class="heading_logo">
-            <img src="img/COACHTECHヘッダーロゴ.png" alt="COACHTECHロゴ">
-        </div>
-        <div class="search-content">
-            <search>キーワードを入力してください</search>
+            <img src="{{ asset('storage/img/COACHTECHヘッダーロゴ.png') }}" alt="COACHTECHロゴ">
         </div>
     </div>
     
